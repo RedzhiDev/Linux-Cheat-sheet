@@ -1,3 +1,6 @@
+Make sure to "Copy Raw" for better format 
+
+
 🔹 Navigation & File Management--------------------------------------------------🔹 Navigation & File Management
 pwd                 # Show current directory
 ls                  # List files
