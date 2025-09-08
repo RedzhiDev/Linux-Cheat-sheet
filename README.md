@@ -1,4 +1,4 @@
-Please veiw whole file to get better copy paste
+Please veiw whole file to get better copy paste.
 
 
 🔹 Navigation & File Management--------------------------------------------------🔹 Navigation & File Management
