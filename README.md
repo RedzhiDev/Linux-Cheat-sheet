@@ -1,5 +1,5 @@
-Please veiw whole file to get better copy paste.
-
+Go to README.md -> Raw. For Better Copy Paste
+ 
 
 🔹 Navigation & File Management--------------------------------------------------🔹 Navigation & File Management
 pwd                 # Show current directory
