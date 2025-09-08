@@ -1,3 +1,6 @@
+Please veiw whole file to get better copy paste
+
+
 🔹 Navigation & File Management--------------------------------------------------🔹 Navigation & File Management
 pwd                 # Show current directory
 ls                  # List files
